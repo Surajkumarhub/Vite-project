@@ -1,4 +1,5 @@
 # React + Vite
+The app is a Paste App, a front-end web application for creating, saving, and managing text snippets. It's a single-page application (SPA) built using a modern technology stack. UI is built with React and styled using Tailwind CSS.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
